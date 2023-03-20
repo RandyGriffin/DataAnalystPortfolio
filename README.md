@@ -9,3 +9,5 @@
 
 - Traffic Collisions Dashboard: 
  https://public.tableau.com/views/TrafficCollisions_16783825121810/Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+ 
+![Traffic](visuals/Traffic.png) 
