@@ -1,5 +1,5 @@
 # DataAnalystPortfolio
-## Following are my projects in SQL, Python, Tableau & Excel: <br />
+## Following are my projects in SQL, Python, Tableau, PowerBI & Excel: <br />
 #### *You can take a look at my personal website : [https://randygriffin.github.io/DataPortfolio/](https://randygriffin.github.io/DataPortfolio/)* <br />
 #### *You can also take a look at my Linkedin : [RandyGriffin](https://www.linkedin.com/in/randy-j-griffin/)* <br />
 
