@@ -11,3 +11,14 @@
  https://public.tableau.com/views/TrafficCollisions_16783825121810/Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
  
 ![Traffic](visuals/Traffic.png) 
+
+
+- [x] **PowerBI** - 
+
+
+- Hotel Revenue Data Analysis Dashboard: 
+ https://app.powerbi.com/view?r=eyJrIjoiOTFmYzdhYzMtNDRiZS00NDQ3LTkxNWEtYWQ0Y2EyYmQ3ZThlIiwidCI6IjBmMDRhMDk5LTZkYzctNDRmZC1hODc1LTAwOTIyOTA2ZmM5YiIsImMiOjZ9
+ 
+ *Review the SQL Script:* **[HERE](https://github.com/RandyGriffin/DataAnalystPortfolio/blob/main/sql_raw/HotelSQL)**<br />
+ 
+![Hotel](visuals/hotel-dashboard-pic.png) 
