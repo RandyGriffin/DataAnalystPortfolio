@@ -22,3 +22,7 @@
  *Review the SQL Script:* **[HERE](https://github.com/RandyGriffin/DataAnalystPortfolio/blob/main/sql_raw/HotelSQL)**<br />
  
 ![Hotel](visuals/hotel-dashboard-pic.png) 
+
+- [x] **Python** - 
+  - Mall Customers Dataset: Exploratory Data Analysis Project <br />
+*Read the complete Project Analysis in PDF:* **[HERE](https://github.com/RandyGriffin/DataAnalystPortfolio/blob/main/MallCustomersData.pdf)**<br />
